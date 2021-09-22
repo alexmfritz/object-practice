@@ -18,5 +18,5 @@ var customer = {
   order: ["16oz iced oat milk latte", "12oz almond milk latte", "croissant"],
   drinks: 2,
   isRude: true,
-  didTip: false,
-}
+  didTip: false
+};
