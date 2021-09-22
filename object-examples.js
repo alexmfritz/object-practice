@@ -6,6 +6,11 @@ var car = {
   cityMiles: 22,
   hwyMiles: 28,
   hasSpare: true,
-  hasSunRoof: true,
-
-}
+  hasSunRoof: true
+};
+var animal = {
+  type: "Zebra",
+  legs: 4,
+  hasStripes: true,
+  diet: ["leaves", "berries", "water"]
+};
